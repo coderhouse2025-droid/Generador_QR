@@ -8,7 +8,7 @@
 
 > **Aplicación web profesional para generar códigos QR desde cualquier texto o URL. Incluye miniaturas en el historial, botones individuales de Recargar/Eliminar, descarga en PNG y SVG, y un diseño moderno de dos columnas.**
 
-🔗 **Demo en vivo:** [https://tu-usuario.github.io/tu-repositorio](https://tu-usuario.github.io/tu-repositorio)
+🔗 **Demo en vivo:** https://coderhouse2025-droid.github.io/Generador_QR/
 
 ---
 
