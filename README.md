@@ -8,7 +8,7 @@
 
 > **Aplicación web ligera y sin servidor para generar códigos QR desde cualquier texto o URL. Con historial automático, descarga de imágenes y despliegue instantáneo en GitHub Pages.**
 
-🔗 **Demo en vivo:** [https://tu-usuario.github.io/tu-repositorio](https://tu-usuario.github.io/tu-repositorio)
+🔗 **Demo en vivo:**  https://coderhouse2025-droid.github.io/Generador_QR/
 
 ---
 
