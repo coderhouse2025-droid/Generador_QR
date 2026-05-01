@@ -18,11 +18,7 @@
 - [Características principales](#-características-principales)
 - [Novedades v2.0](#-novedades-v20)
 - [Tecnologías utilizadas](#️-tecnologías-utilizadas)
-- [Instalación y uso local](#-instalación-y-uso-local)
-- [Despliegue en GitHub Pages](#-despliegue-en-github-pages)
 - [Estructura del proyecto](#-estructura-del-proyecto)
-- [Hoja de ruta](#-hoja-de-ruta)
-- [Contribuciones](#-contribuciones)
 - [Licencia](#-licencia)
 - [Autor](#-autor)
 
@@ -80,22 +76,7 @@
 
 ---
 
-## 💻 Instalación y uso local
-
-Sigue estos pasos para ejecutar la aplicación en tu máquina:
-
-### Prerrequisitos
-- Un navegador web moderno (Chrome, Firefox, Edge, Safari)
-- (Opcional) Git y un editor de código
-
-### Pasos
-
-1. **Clona el repositorio**
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
-
-📁 Estructura del proyecto
+## 📁 Estructura del proyecto
 repositorio/
 │
 ├── index.html          # Aplicación completa (HTML + CSS + JS inline)
@@ -103,11 +84,11 @@ repositorio/
 └── assets/             # (Opcional) Imágenes para el README
     └── screenshot.png
     └── screenshot2.png
+---
 
-👤 Autor
-Tu nombre / equipo
+## 👤 Autor
+Juan Manuel Orellana
+---
 
-GitHub: @tu-usuario
-
-📄 Licencia
+## 📄 Licencia
 Este proyecto está bajo la licencia MIT – consulta el archivo LICENSE para más detalles.
