@@ -1,20 +1,22 @@
-# 📱 Generador de Códigos QR / CR
+# 📱 Generador Profesional de Códigos QR
 
-![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
+![Versión](https://img.shields.io/badge/versión-2.0-blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white)
 
-> **Aplicación web ligera y sin servidor para generar códigos QR desde cualquier texto o URL. Con historial automático, descarga de imágenes y despliegue instantáneo en GitHub Pages.**
+> **Aplicación web profesional para generar códigos QR desde cualquier texto o URL. Incluye miniaturas en el historial, botones individuales de Recargar/Eliminar, descarga en PNG y SVG, y un diseño moderno de dos columnas.**
 
-🔗 **Demo en vivo:**  https://coderhouse2025-droid.github.io/Generador_QR/
+🔗 **Demo en vivo:** [https://tu-usuario.github.io/tu-repositorio](https://tu-usuario.github.io/tu-repositorio)
 
 ---
 
 ## 📋 Tabla de Contenidos
 
+- [Capturas de pantalla](#-capturas-de-pantalla)
 - [Características principales](#-características-principales)
+- [Novedades v2.0](#-novedades-v20)
 - [Tecnologías utilizadas](#️-tecnologías-utilizadas)
 - [Instalación y uso local](#-instalación-y-uso-local)
 - [Despliegue en GitHub Pages](#-despliegue-en-github-pages)
@@ -28,24 +30,43 @@
 
 ## 🖼️ Capturas de pantalla
 
-| Vista principal | Generando QR | Historial |
-<img width="1814" height="971" alt="image" src="https://github.com/user-attachments/assets/5262b2a4-ed4b-4247-8b6c-cd83272c86c1" />
+| Generador principal | Historial con miniaturas |
+|:---:|:---:|
+| ![Generador QR v2](https://via.placeholder.com/450x350?text=Generador+con+PNG/SVG) | ![Historial con miniaturas](https://via.placeholder.com/350x450?text=Miniaturas+y+botones) |
 
+*(Reemplaza los placeholders con capturas reales de tu aplicación)*
 
 ---
 
 ## ✨ Características principales
 
-| Funcionalidad | Descripción |
-|---------------|-------------|
-| 🔲 **Generación instantánea** | Crea códigos QR desde cualquier texto o URL en milisegundos |
-| 💾 **Descarga de imágenes** | Guarda el QR como PNG con nombre único (`codigo_qr_timestamp.png`) |
-| 📜 **Historial persistente** | Almacena automáticamente los últimos 10 códigos generados (usando `localStorage`) |
-| 🖱️ **Historial clickable** | Recupera cualquier código anterior con un solo clic |
-| ⌨️ **Atajo de teclado** | Presiona `Ctrl + Enter` desde el área de texto para generar rápidamente |
-| 📱 **Diseño responsive** | Funciona perfectamente en móviles, tablets y escritorio |
+| Área | Funcionalidad |
+|------|----------------|
+| 🔲 **Generador QR** | Convierte cualquier texto o URL en código QR instantáneo |
+| 🖼️ **Miniaturas en historial** | Vista previa visual de cada QR generado anteriormente |
+| 🔄 **Recargar desde historial** | Un clic recupera cualquier código anterior y lo regenera |
+| 🗑️ **Eliminación selectiva** | Borra elementos individuales del historial sin afectar al resto |
+| 🧹 **Limpiar todo** | Vacía el historial completo con un solo botón |
+| 📥 **Descarga dual** | Exporta tu QR en **PNG** (raster) o **SVG** (vectorial, ideal para impresión) |
+| 🎨 **Diseño profesional** | Interfaz limpia, tipografía moderna, sin emojis, dos columnas responsive |
+| 💾 **Persistencia local** | El historial se guarda automáticamente en tu navegador (localStorage) |
+| ⌨️ **Productividad** | Atajo `Ctrl + Enter` para generar desde el teclado |
+| 📱 **Responsive** | Funciona perfectamente en móviles, tablets y escritorio |
 | 🌐 **Sin servidor** | 100% frontend – no requiere backend ni API keys |
-| 🚀 **Cero instalación** | Abre el archivo `index.html` y funciona inmediatamente |
+
+---
+
+## 🆕 Novedades v2.0
+
+| Característica | Descripción |
+|----------------|-------------|
+| 🖼️ **Miniaturas en el historial** | Cada código guardado muestra una vista previa en miniatura del QR |
+| ⚡ **Botones individuales** | Cada elemento del historial tiene botones "Recargar" (carga el texto) y "Eliminar" (borra solo ese elemento) |
+| 📥 **Descarga en SVG** | Además de PNG, ahora puedes descargar el código en formato vectorial (escalable sin pérdida) |
+| 🎨 **Diseño profesional** | Interfaz de dos columnas, tarjetas con sombras, tipografía moderna y sin emojis |
+| 🧹 **Limpiar historial completo** | Botón independiente para vaciar todos los registros |
+| ⌨️ **Atajo de teclado** | Presiona `Ctrl + Enter` para generar el QR rápidamente |
+| 💾 **Persistencia mejorada** | El historial guarda hasta 12 códigos con metadatos (tipo, timestamp) |
 
 ---
 
@@ -54,9 +75,10 @@
 | Tecnología | Propósito |
 |------------|-----------|
 | **HTML5** | Estructura semántica de la aplicación |
-| **CSS3** | Estilos modernos (gradientes, animaciones, responsive) |
-| **JavaScript (Vanilla)** | Lógica de generación, persistencia y eventos |
+| **CSS3** | Estilos modernos (gradientes, tarjetas, sombras, responsive) |
+| **JavaScript (Vanilla)** | Lógica de generación, persistencia, miniaturas y eventos |
 | **QRCode.js** | Biblioteca CDN para generar códigos QR |
+| **html2canvas** | (Opcional) Para capturas de alta calidad |
 | **localStorage** | Almacenamiento del historial en el navegador |
 | **GitHub Pages** | Alojamiento gratuito y despliegue continuo |
 
