@@ -14,8 +14,6 @@
 
 ## 📋 Tabla de Contenidos
 
-<img width="1814" height="971" alt="image" src="https://github.com/user-attachments/assets/5deeccc5-d8db-4e63-b7d5-c9d32767d6b5" />
-
 - [Características principales](#-características-principales)
 - [Tecnologías utilizadas](#️-tecnologías-utilizadas)
 - [Instalación y uso local](#-instalación-y-uso-local)
@@ -31,10 +29,8 @@
 ## 🖼️ Capturas de pantalla
 
 | Vista principal | Generando QR | Historial |
-|:---:|:---:|:---:|
-| ![Vista principal](https://via.placeholder.com/300x200?text=Interfaz+principal) | ![Generando QR](https://via.placeholder.com/300x200?text=QR+generado) | ![Historial](https://via.placeholder.com/300x200?text=Historial) |
+<img width="1814" height="971" alt="image" src="https://github.com/user-attachments/assets/5262b2a4-ed4b-4247-8b6c-cd83272c86c1" />
 
-*(Reemplaza los placeholders con capturas reales de tu app)*
 
 ---
 
