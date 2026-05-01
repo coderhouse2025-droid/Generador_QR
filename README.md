@@ -98,3 +98,20 @@ Sigue estos pasos para ejecutar la aplicación en tu máquina:
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
    cd tu-repositorio
+
+📁 Estructura del proyecto
+repositorio/
+│
+├── index.html          # Aplicación completa (HTML + CSS + JS inline)
+├── README.md           # Este archivo
+└── assets/             # (Opcional) Imágenes para el README
+    └── screenshot.png
+    └── screenshot2.png
+
+👤 Autor
+Tu nombre / equipo
+
+GitHub: @tu-usuario
+
+📄 Licencia
+Este proyecto está bajo la licencia MIT – consulta el archivo LICENSE para más detalles.
