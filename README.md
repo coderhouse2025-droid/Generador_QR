@@ -30,11 +30,7 @@
 
 ## 🖼️ Capturas de pantalla
 
-| Generador principal | Historial con miniaturas |
-|:---:|:---:|
-| ![Generador QR v2](https://via.placeholder.com/450x350?text=Generador+con+PNG/SVG) | ![Historial con miniaturas](https://via.placeholder.com/350x450?text=Miniaturas+y+botones) |
-
-*(Reemplaza los placeholders con capturas reales de tu aplicación)*
+<img width="1793" height="1018" alt="image" src="https://github.com/user-attachments/assets/2f6a9804-69af-4d0b-a838-e258b2f734c5" />
 
 ---
 
