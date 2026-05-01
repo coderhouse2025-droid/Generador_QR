@@ -14,7 +14,8 @@
 
 ## 📋 Tabla de Contenidos
 
-- [Capturas de pantalla](#-capturas-de-pantalla)
+<img width="1814" height="971" alt="image" src="https://github.com/user-attachments/assets/5deeccc5-d8db-4e63-b7d5-c9d32767d6b5" />
+
 - [Características principales](#-características-principales)
 - [Tecnologías utilizadas](#️-tecnologías-utilizadas)
 - [Instalación y uso local](#-instalación-y-uso-local)
