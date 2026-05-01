@@ -78,10 +78,13 @@
 
 ## 📁 Estructura del proyecto
 repositorio/
-│
+
 ├── index.html          # Aplicación completa (HTML + CSS + JS inline)
+
 ├── README.md           # Este archivo
+
 └── assets/             # (Opcional) Imágenes para el README
+  
     └── screenshot.png
     └── screenshot2.png
 ---
