@@ -1,3 +1,5 @@
+<img width="1468" height="754" alt="qr" src="https://github.com/user-attachments/assets/c68557d0-2cdb-44c7-b470-6bff0772b404" />
+
 # 📱 Generador QR — Web App para creación de códigos QR
 
 [![Demo en vivo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge)](https://coderhouse2025-droid.github.io/Generador_QR/)
