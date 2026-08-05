@@ -450,4 +450,4 @@ Consistencia con la arquitectura del resto del ecosistema de proyectos: portabil
 
 ## 📄 Licencia
 
-MIT License — libre para uso, adaptación y distribución.
+Este proyecto está bajo la [Licencia MIT](LICENSE) — libre para uso como referencia, aprendizaje o desarrollo de proyectos propios.
